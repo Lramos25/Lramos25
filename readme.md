@@ -10,7 +10,7 @@ Hello, I am Luis and I currently live in the Denver, Co area. I enjoy working wi
 
 Skills: SQL / PYTHON3 / C++ / HTML / CSS / JS 
 
-<img align= "left" alt = "" width = "40px" src = "https://github.com/Lramos25/Lramos25/blob/main/Luis.jpg">
+<img align= "left" alt = "" width = "40px" src = "https://github.com/Lramos25/Lramos25/blob/main/SQL.jpg">
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Lramos25&count_private=true&theme=tokyonight&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lramos25&langs_count=5&theme=tokyonight)]()
 
