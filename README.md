@@ -1,3 +1,4 @@
+![I am a Software Developer](https://scontent.fapa1-2.fna.fbcdn.net/v/t1.18169-9/10478434_102428206762201_2058107627803358764_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CRPsbkP8fq4AX9JDzMJ&_nc_ht=scontent.fapa1-2.fna&oh=00_AT80ljpEJNDGSYG_1WwrmMugwCUmhfnc_UWxddpOxBzDVg&oe=62502E8A)
 
 #### I am a Software Developer
 
@@ -15,7 +16,7 @@ Skills: SQL / PYTHON3 / C++ / HTML / CSS / JS
 
 
 
-![I am a Software Developer](https://scontent.fapa1-2.fna.fbcdn.net/v/t1.18169-9/10478434_102428206762201_2058107627803358764_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CRPsbkP8fq4AX9JDzMJ&_nc_ht=scontent.fapa1-2.fna&oh=00_AT80ljpEJNDGSYG_1WwrmMugwCUmhfnc_UWxddpOxBzDVg&oe=62502E8A)
+
 
 
 
