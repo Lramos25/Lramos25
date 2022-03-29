@@ -1,6 +1,6 @@
 
 
-## ![I am a Software Developer](https://github.com/Lramos25/Lramos25/blob/main/Luis.jpg)    
+
 
 # I am a Software Developer
 
