@@ -9,7 +9,7 @@ Hello, I am Luis and I currently live in the Denver, Co area. I enjoy working wi
 - 🔭 I’m currently working on Data Analytics project comparing user rating, critic scores and game sales. 
 - 🌱 I’m currently learning Database optimization / AWS / MERN 
 
-- :atom: I also dabble in things I dont know and just work it out - I built this website using for my wife's business [Allie Ramos Hair](http://www.allieramoshair.com/)
+- :atom: I also dabble in things I dont know and just work it out - I built this website using for a business [Allie Ramos Hair](http://www.allieramoshair.com/)
 
 
 ## Skills: SQL / PYTHON3 / C++ 
